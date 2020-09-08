@@ -56,7 +56,7 @@ VOORTGANG CODE PEN:
 Typografie opdr 1: https://codepen.io/raoufouaziz/pen/oNxEwYx
 Typografie opdr 2: https://codepen.io/raoufouaziz/pen/dyMdzvm
 
-Positioneren opdr 1:
+Positioneren opdr 1:https://codepen.io/raoufouaziz/pen/YzqeEwW
 
 ## Intake (week 1)
 
