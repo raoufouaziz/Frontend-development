@@ -53,7 +53,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -na afloop snel uitkomsten vastleggen-
 
 VOORTGANG CODE PEN:
-Typografie: https://codepen.io/raoufouaziz/pen/oNxEwYx
+Typografie opdr 1: https://codepen.io/raoufouaziz/pen/oNxEwYx
+Typografie opdr 2: https://codepen.io/raoufouaziz/pen/dyMdzvm
 
 ## Intake (week 1)
 
