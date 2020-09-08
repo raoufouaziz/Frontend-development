@@ -52,7 +52,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -na afloop snel uitkomsten vastleggen-
 
-
+VOORTGANG CODE PEN:
+Typografie: https://codepen.io/raoufouaziz/pen/oNxEwYx
 
 ## Intake (week 1)
 
