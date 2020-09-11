@@ -58,6 +58,8 @@ Typografie opdr 2: https://codepen.io/raoufouaziz/pen/dyMdzvm
 
 Positioneren opdr 1:https://codepen.io/raoufouaziz/pen/YzqeEwW
 
+Flexbox opdr 1: https://codepen.io/raoufouaziz/pen/WNwJQPy
+
 ## Intake (week 1)
 
 **Je startniveau:** -blauw-
