@@ -67,7 +67,7 @@ Flexbox opdr 1: https://codepen.io/raoufouaziz/pen/WNwJQPy
 
 **Je focus:** -responsive-
 
-**Je opdracht:** -https://www.netflix.com/browse-
+**Je opdracht:** -https://www.boo.com/browse-
 
 **Screenshot(s):** (Screenshot staat onder het images mapje)
 
@@ -75,4 +75,4 @@ Flexbox opdr 1: https://codepen.io/raoufouaziz/pen/WNwJQPy
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
+(images/homepage.svg) 
