@@ -76,4 +76,4 @@ Flexbox opdr 1: https://codepen.io/raoufouaziz/pen/WNwJQPy
 **Breakdown-schets(en):**
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Homepage.svg)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Product-pagina.svg)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Product_pagina.svg)
