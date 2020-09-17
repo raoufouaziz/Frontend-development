@@ -69,9 +69,9 @@ Flexbox opdr 1: https://codepen.io/raoufouaziz/pen/WNwJQPy
 
 **Je opdracht:** -https://www.bol.com/browse-
 
-**Screenshot(s):** (Screenshot staat onder het images mapje)
+**Screenshot bol.com webpagina:** 
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken]
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Bol.com-webpagina.png)
 
 **Breakdown-schets(en):**
 
