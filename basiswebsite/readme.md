@@ -67,7 +67,7 @@ Flexbox opdr 1: https://codepen.io/raoufouaziz/pen/WNwJQPy
 
 **Je focus:** -responsive-
 
-**Je opdracht:** -https://www.bol.com/
+**Je opdracht:** -https://www.bunq.com
 
 **Screenshot bol.com webpagina:** 
 
