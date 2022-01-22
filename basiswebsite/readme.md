@@ -71,7 +71,7 @@ Flexbox opdr 1: https://codepen.io/raoufouaziz/pen/WNwJQPy
 
 **Screenshot Bunq.com webpagina:** 
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Bol.com-webpagina.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/bunqhome.png)
 
 **Breakdown-schets(en):**
 
