@@ -69,11 +69,11 @@ Flexbox opdr 1: https://codepen.io/raoufouaziz/pen/WNwJQPy
 
 **Je opdracht:** -https://www.bunq.com
 
-**Screenshot bol.com webpagina:** 
+**Screenshot Bunq.com webpagina:** 
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Bol.com-webpagina.png)
 
 **Breakdown-schets(en):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Frame 2.11.png)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Frame 1.11.png)
+Breakdown schets HOMEPAGE:
+Breakdown schets ABOUT US:
