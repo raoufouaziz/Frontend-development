@@ -34,6 +34,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 - Maak minder gebruik van sections en articles,
 - Gebruik ipv <div> andere semantische oplossingen zoals :nth of type.
+  
+-Ik heb wat aanpassingen gemaakt na deze feedback ronde.
+  
+ ![HTML update](images/UpdateHTML.png)
 
 
 
@@ -41,7 +45,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--Tijdens het maken van het HTML gedeelte van de webpage vond ik het erg lastig om gelijk te weten waar je nou <article>, <section>, etc gebruikt. Doordat ik dit niet echt wist had ik enorm veel van deze elementen in mijn html staan. Gelukkig doordat ik nog een beetje weet van vorig jaar kon ik het HTML gedeelte wel nog gewoon maken. De aanpassingen zouden na de les gebeuren, zodra ik het feedback heb ontvangen van de docent.-
+-Tijdens het maken van het HTML gedeelte van de webpage vond ik het erg lastig om gelijk te weten waar je nou article, section, etc gebruikt. Doordat ik dit niet echt wist had ik enorm veel van deze elementen in mijn html staan. Gelukkig doordat ik nog een beetje weet van vorig jaar kon ik het HTML gedeelte wel nog gewoon maken. De aanpassingen zouden na de les gebeuren, zodra ik het feedback heb ontvangen van de docent.-
 
 **Screenshot(s):**
 
