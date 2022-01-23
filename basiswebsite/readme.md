@@ -70,11 +70,8 @@ Flexbox opdr 1: https://codepen.io/raoufouaziz/pen/WNwJQPy
 **Je opdracht:** -https://www.bunq.com
 
 **Screenshot Bunq.com webpagina:** 
-
-
-
-
-ABOUT US BUNQ: ![](images/bunqaboutus.png)
+ABOUT US BUNQ: ![Homepage van bunq](images/bunqhome.png)
+ABOUT US BUNQ: ![About us page van bunq](images/bunqaboutus.png)
 
 **Breakdown-schets(en):**
 
