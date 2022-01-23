@@ -74,7 +74,7 @@ Flexbox opdr 1: https://codepen.io/raoufouaziz/pen/WNwJQPy
 
 
 
-ABOUT US BUNQ: !(images/bunqaboutus.png)
+ABOUT US BUNQ: ![](images/bunqaboutus.png)
 
 **Breakdown-schets(en):**
 
