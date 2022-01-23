@@ -80,7 +80,7 @@ About us Bunq:
 **Breakdown-schets(en):**
 
 Breakdown schets Homepage: 
-![breakdownschets bunq homepage](images/breakdownschets home.png)
+![breakdownschets bunq homepage](images/breakdownschetshome.png)
 
 Breakdown schets About us:
-![breakdownschets bunq about us page](images/breakdownschets about us.png)
+![breakdownschets bunq about us page](images/breakdownschetsaboutus.png)
