@@ -6,20 +6,24 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child
+2. https://www.w3schools.com
 
 
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+-Het eindgesprek heb ik helaas niet kunnen houden doordat ik nog altijd problemen had met mijn gezondheid, deze week heb ik wel Danny gesproken om te kijken of eventueel wat uitstel kon krijgen. Ik liep nog heel wat achter en wist niet of ik het wel zou halen of niet in combinatie met de meerdere vakken die ik op dat moment had.-
+
+-Na het spreken van Danny heb ik mezelf beloofd dat ik dit vak af zou ronden met een voldoende en ik mijn uiterste best hiervoor zou doen. Door deze inzet heb ik een responsive webpage kunnen maken waarmee ik meer dan gelukkig ben.-
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+Homepage:
+![Finished Homepage](images/FinishedHomePage.png)
 
+About Us:
+![Finished Homepage](images/FinishedAboutus.png)
 
 
 ## Voortgang 3 (week 6)
@@ -40,7 +44,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
  ![HTML update](images/UpdateHTML.png)
 
   CSS
- ![HTML update](images/BasicCSS.png.png)
+ ![HTML update](images/BasicCSS.png)
 
 ## Voortgang 1 (week 3)
 
