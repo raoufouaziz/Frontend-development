@@ -79,5 +79,8 @@ About us Bunq:
 
 **Breakdown-schets(en):**
 
-Breakdown schets HOMEPAGE:
-Breakdown schets ABOUT US:
+Breakdown schets Homepage: 
+![breakdownschets bunq homepage](images/breakdownschets home.png)
+
+Breakdown schets About us:
+![breakdownschets bunq about us page](images/breakdownschets about us.png)
