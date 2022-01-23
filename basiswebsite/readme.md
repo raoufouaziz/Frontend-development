@@ -24,13 +24,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+-Gedurende week 6-7 kon ik vrij weinig doen aan mijn studie, doordat ik een operatie ben ondergaan gedurende deze week kon ik helaas niet verder werken en heb ik besloten om mijn gezondheid boven mijn studiewerk te kiezen. -
 
 
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+-Na het hebben ontvangen van feedback op de HTML die ik had was het voor mij duidelijk wat er veranderd moest worden. Dit waren de grootste feedback punten.-
+
+- Maak minder gebruik van sections en articles,
+- Gebruik ipv <div> andere semantische oplossingen zoals :nth of type.
 
 
 
@@ -38,7 +41,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+-Tijdens het maken van het HTML gedeelte van de webpage vond ik het erg lastig om gelijk te weten waar je nou <article>, <section>, etc gebruikt. Doordat ik dit niet echt wist had ik enorm veel van deze elementen in mijn html staan. Gelukkig doordat ik nog een beetje weet van vorig jaar kon ik het HTML gedeelte wel nog gewoon maken. De aanpassingen zouden na de les gebeuren, zodra ik het feedback heb ontvangen van de docent.-
 
 **Screenshot(s):**
 
