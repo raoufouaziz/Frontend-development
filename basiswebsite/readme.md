@@ -39,7 +39,8 @@ Eindresultaat About Us:
 - Maak minder gebruik van sections en articles,
 - Gebruik ipv <div> andere semantische oplossingen zoals :nth of type.
   
--Ik heb wat aanpassingen gemaakt na deze feedback ronde.
+-Ik heb wat aanpassingen gemaakt na deze feedback ronde, het HTML gedeelte heb ik verbeterd en hier heb ik een korte CSS gedeelte bij gemaakt om te proberen of alles werkt.
+  
   HTML
  ![HTML update](images/UpdateHTML.png)
 
