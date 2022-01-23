@@ -71,9 +71,9 @@ Flexbox opdr 1: https://codepen.io/raoufouaziz/pen/WNwJQPy
 
 **Screenshot Bunq.com webpagina:** 
 
-HOMEPAGE BUNQ: (images/bunqhome.png)
+HOMEPAGE BUNQ: (/images/bunqhome.png)
 
-ABOUT US BUNQ: (https://github.com/raoufouaziz/Frontend-development/blob/53a39204c142a6b92052e78d2d68a32a8b51d39f/basiswebsite/images/bunqaboutus.png)
+ABOUT US BUNQ: 
 
 **Breakdown-schets(en):**
 
