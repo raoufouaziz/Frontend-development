@@ -19,10 +19,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-Homepage:
+Eindresultaat Homepage:
 ![Finished Homepage](images/FinishedHomePage.png)
 
-About Us:
+Eindresultaat About Us:
 ![Finished Homepage](images/FinishedAboutus.png)
 
 
