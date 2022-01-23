@@ -43,14 +43,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent-
+Homepage: 
+![Voortgang HTML](images/Voortgangbunqhtml.png)
 
-### Agenda voor meeting
-
--samen met je groepje opstellen-
-
-### Verslag van meeting
-
--na afloop snel uitkomsten vastleggen-
+About us:
+![Voortgang HTML](images/Voortgangbunqhtml2.png)
 
 VOORTGANG CODE PEN:
 
