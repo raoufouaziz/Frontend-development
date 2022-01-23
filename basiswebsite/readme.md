@@ -36,10 +36,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 - Gebruik ipv <div> andere semantische oplossingen zoals :nth of type.
   
 -Ik heb wat aanpassingen gemaakt na deze feedback ronde.
-  
+  HTML
  ![HTML update](images/UpdateHTML.png)
 
-
+  CSS
+ ![HTML update](images/BasicCSS.png.png)
 
 ## Voortgang 1 (week 3)
 
