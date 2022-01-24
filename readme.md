@@ -20,10 +20,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s):**
 
 Eindresultaat Homepage:
-![Finished Homepage](images/FinishedHomePage.png)
+![Finished Homepage](img/FinishedHomePage.png)
 
 Eindresultaat About Us:
-![Finished Homepage](images/FinishedAboutus.png)
+![Finished Homepage](img/FinishedAboutus.png)
 
 
 ## Voortgang 3 (week 6)
@@ -42,10 +42,10 @@ Eindresultaat About Us:
 -Ik heb wat aanpassingen gemaakt na deze feedback ronde, het HTML gedeelte heb ik verbeterd en hier heb ik een korte CSS gedeelte bij gemaakt om te proberen of alles werkt.
   
   HTML
- ![HTML update](images/UpdateHTML.png)
+ ![HTML update](img/UpdateHTML.png)
 
   CSS
- ![HTML update](images/BasicCSS.png)
+ ![HTML update](img/BasicCSS.png)
 
 ## Voortgang 1 (week 3)
 
@@ -57,10 +57,10 @@ Eindresultaat About Us:
 
 -screenshot(s) van hoe ver je bent-
 Homepage: 
-![Voortgang HTML](images/Voortgangbunqhtml.png)
+![Voortgang HTML](img/Voortgangbunqhtml.png)
 
 About us:
-![Voortgang HTML](images/Voortgangbunqhtml2.png)
+![Voortgang HTML](img/Voortgangbunqhtml2.png)
 
 VOORTGANG CODE PEN:
 
@@ -82,15 +82,15 @@ Flexbox opdr 1: https://codepen.io/raoufouaziz/pen/WNwJQPy
 **Screenshot Bunq.com webpagina:** 
 
 Homepage Bunq: 
-![Homepage van bunq](images/bunqhome.png)
+![Homepage van bunq](img/bunqhome.png)
 
 About us Bunq: 
-![About us page van bunq](images/bunqaboutus.png)
+![About us page van bunq](img/bunqaboutus.png)
 
 **Breakdown-schets(en):**
 
 Breakdown schets Homepage: 
-![breakdownschets bunq homepage](images/breakdownschetshome.png)
+![breakdownschets bunq homepage](img/breakdownschetshome.png)
 
 Breakdown schets About us:
-![breakdownschets bunq about us page](images/breakdownschetsaboutus.png)
+![breakdownschets bunq about us page](img/breakdownschetsaboutus.png)
