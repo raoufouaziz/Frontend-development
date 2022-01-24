@@ -93,4 +93,4 @@ Breakdown schets Homepage:
 ![breakdownschets bunq homepage](images/breakdownschetshome.png)
 
 Breakdown schets About us:
-![](breakdownschetsaboutus.png)
+![](images/breakdownschetsaboutus.png)
